@@ -1,0 +1,14 @@
+Data i godzina gry: 2024-06-19 21:09:48
+Gracz 1: Przegrał
+Trafienia: 2
+Gracz 2: Wygrał
+Trafienia: 3
+Czas gry: 0 minut 23 sekund
+
+Data i godzina gry: 2024-06-19 22:03:56
+Gracz 1: Wygrał
+Trafienia: 3
+Gracz 2: Przegrał
+Trafienia: 0
+Czas gry: 0 minut 5 sekund
+
